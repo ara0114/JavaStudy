@@ -30,7 +30,9 @@
 
 ### w01. (22/06/06)
 
-- Ch06.클래스
+- [Ch06.클래스](https://github.com/ara0114/JavaStudy/blob/08b68110f661cb8c8aad8f9d1ce552d7ee8fc2aa/w01.md)
 
+### w02. (22/06/13)
 
+- [Ch07.상속, Ch08.인터페이스](https://github.com/ara0114/JavaStudy/blob/08b68110f661cb8c8aad8f9d1ce552d7ee8fc2aa/w02.md)
 
