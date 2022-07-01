@@ -30,14 +30,14 @@
 
 ### w01. (22/06/06)
 
-- [Ch06.클래스](https://github.com/ara0114/JavaStudy/blob/08b68110f661cb8c8aad8f9d1ce552d7ee8fc2aa/w01.md)
+- [Ch06.클래스](https://github.com/ara0114/JavaStudy/blob/2133df26ae5216b1f5e6531efd99c60a7bd239a2/w01.md)
 
 ### w02. (22/06/13)
 
-- [Ch07.상속, Ch08.인터페이스](https://github.com/ara0114/JavaStudy/blob/08b68110f661cb8c8aad8f9d1ce552d7ee8fc2aa/w02.md)
+- [Ch07.상속, Ch08.인터페이스](https://github.com/ara0114/JavaStudy/blob/2133df26ae5216b1f5e6531efd99c60a7bd239a2/w02.md)
 
 ### w03. (22/06/27)
 
 - 세미 프로젝트 등으로 인한 일정 변경(06/20 → 06/27)
 - 구성원 추가 - 임다빈
-- [Ch13.제네릭, Ch14.람다식](https://github.com/ara0114/JavaStudy/blob/b65e3ad8947b590825a7c325f6d01812f7644091/w03.md)
+- [Ch13.제네릭, Ch14.람다식](https://github.com/ara0114/JavaStudy/blob/2133df26ae5216b1f5e6531efd99c60a7bd239a2/w03.md) 
