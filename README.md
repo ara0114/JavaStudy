@@ -26,8 +26,6 @@
 
 (시간이 변경되거나 일정이 추가될 수 있음)
 
-
-
 ### w01. (22/06/06)
 
 - [Ch06.클래스](https://github.com/ara0114/JavaStudy/blob/2133df26ae5216b1f5e6531efd99c60a7bd239a2/w01.md)
@@ -39,9 +37,8 @@
 ### w03. (22/06/27)
 
 - 세미 프로젝트 등으로 인한 일정 변경(06/20 → 06/27)
-- 구성원 추가 - 임다빈
-- [Ch13.제네릭, Ch14.람다식](https://github.com/ara0114/JavaStudy/blob/2133df26ae5216b1f5e6531efd99c60a7bd239a2/w03.md) 
+- [Ch13.제네릭, Ch14.람다식](https://github.com/ara0114/JavaStudy/blob/eb76381e82d96a9d462999b7101ab4ea0d74859c/w03.md)
 
 ### w04. (22/07/04)
 
-- [Ch15.컬렉션프레임워크](https://github.com/ara0114/JavaStudy/blob/b87ae1f2350340f6e60d22ea035d5ae80cd4f7e2/w04.md) 
+- [Ch15.컬렉션프레임워크](https://github.com/ara0114/JavaStudy/blob/b87ae1f2350340f6e60d22ea035d5ae80cd4f7e2/w04.md)
